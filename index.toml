@@ -4507,7 +4507,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "442e63fbda8d3a688b8d5059c0618c38ee491b95fe189f2be3a0db0c4d58f779"
+hash = "66c4b20e8ba9916a0e84e05a00d6cb54c6dc2d6fc5cebbf0263a9103d06ae9df"
 metafile = true
 
 [[files]]
