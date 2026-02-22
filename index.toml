@@ -4348,6 +4348,10 @@ hash = "3b55095e1103ab34ecb88ca5c4c4dc167ef994062a746ffe50425aef3fe439f1"
 metafile = true
 
 [[files]]
+file = "mods/securecrops-2.0.0+1.20.x.jar"
+hash = "27cf6e57367f5815a9b1c5ed18d32fd985420321937b44ca937e445ff06cfb8d"
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "0ef0506c9ef630f706d8f70c954af05c52799244c3af5183dc552f1175e9701a"
 metafile = true
@@ -4386,6 +4390,10 @@ metafile = true
 file = "mods/sit-fabric.pw.toml"
 hash = "11e2e4821470399e36976d82f7656807d2ca4fb4244f5a7117040db17e893b08"
 metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-fabric-1.10.1-mc1.20.1.jar"
+hash = "4bab7916340af0cc9c8e91b198b69533b2c5fb02956d8cc98d7191dc627d3da4"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
