@@ -4392,10 +4392,6 @@ hash = "11e2e4821470399e36976d82f7656807d2ca4fb4244f5a7117040db17e893b08"
 metafile = true
 
 [[files]]
-file = "mods/skinlayers3d-fabric-1.10.1-mc1.20.1.jar"
-hash = "4bab7916340af0cc9c8e91b198b69533b2c5fb02956d8cc98d7191dc627d3da4"
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "194bcdfc276baead9bff868c35e1cfc070de74d2edccbe1b0a68711a170f3387"
 metafile = true
