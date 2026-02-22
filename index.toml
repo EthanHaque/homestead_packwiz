@@ -4388,11 +4388,6 @@ hash = "11e2e4821470399e36976d82f7656807d2ca4fb4244f5a7117040db17e893b08"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "3d01b105cdbee7fe7f533358f66030e2dcd4b268306b1ed65ee8270edcc90cdd"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "194bcdfc276baead9bff868c35e1cfc070de74d2edccbe1b0a68711a170f3387"
 metafile = true
