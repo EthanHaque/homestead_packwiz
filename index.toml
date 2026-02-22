@@ -4463,7 +4463,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-mod.pw.toml"
-hash = "3e9fef93b6fce4e167ee44899ec18048970582e5ad4e6f91eba4dcd9eee2b0a4"
+hash = "84278fdbdb9345a1fe943b4b62437c2f3b17b489c4edfa078b4d0f71d16e5831"
 metafile = true
 
 [[files]]
