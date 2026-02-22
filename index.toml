@@ -4344,12 +4344,8 @@ metafile = true
 
 [[files]]
 file = "mods/secure-crops.pw.toml"
-hash = "3b55095e1103ab34ecb88ca5c4c4dc167ef994062a746ffe50425aef3fe439f1"
+hash = "9200f6371cd78893866bd2de5c4d38fbaf50df6b12e8e6af7a0751ac5fea8239"
 metafile = true
-
-[[files]]
-file = "mods/securecrops-2.0.0+1.20.x.jar"
-hash = "27cf6e57367f5815a9b1c5ed18d32fd985420321937b44ca937e445ff06cfb8d"
 
 [[files]]
 file = "mods/selene.pw.toml"
