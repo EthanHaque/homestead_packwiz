@@ -5,6 +5,10 @@ file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "e0b142cdd8b0f4451c8fb15f9a8bd9973fc59e099eb3541a8afd3c2449a076a7"
+
+[[files]]
 file = "config/InventoryHUD/trinkets.json"
 hash = "01291a13c2012e3ab7d5965640c3210fcba6b50ee131cf0dba345971cf1dca28"
 
@@ -202,7 +206,7 @@ hash = "2a392d1be04c523a3196b67c4052e90cd1f9b868c667c0f782f45c5628b4e5aa"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "6a0626c2b7142b0ea71bc19503ec00daa0bcbb1b2aa938dfbd0d18cedf940e49"
+hash = "be9b962cbb6f4acca5f5967d4e5a1f6933b7a9c5c6b5e7f2eee77092541c5a4f"
 
 [[files]]
 file = "config/cactus_config.toml"
