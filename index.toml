@@ -6,7 +6,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "e0b142cdd8b0f4451c8fb15f9a8bd9973fc59e099eb3541a8afd3c2449a076a7"
+hash = "6515ab9c32182610b4ca9d5f00672bf7cef4d5ea63942799d28f7960c320fb4d"
 
 [[files]]
 file = "config/InventoryHUD/trinkets.json"
@@ -206,7 +206,7 @@ hash = "2a392d1be04c523a3196b67c4052e90cd1f9b868c667c0f782f45c5628b4e5aa"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "be9b962cbb6f4acca5f5967d4e5a1f6933b7a9c5c6b5e7f2eee77092541c5a4f"
+hash = "c789a4aabaa90b41abb8552f03dd9dca98fb89ed6d178f4620325f3d3cdb1b52"
 
 [[files]]
 file = "config/cactus_config.toml"
