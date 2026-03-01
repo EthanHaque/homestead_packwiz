@@ -53,7 +53,7 @@ globalExecutorParallelism = 12
 	compatibilityMode = false
 	# (Default: 7) No-tick view distance max concurrent chunk loads
 	#  Lower this for a better latency and higher this for a faster loading
-	maxConcurrentChunkLoads = 4
+	maxConcurrentChunkLoads = 16
 	# (Default: false) Whether to ensure correct chunks within normal render distance
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
